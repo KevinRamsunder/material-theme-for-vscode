@@ -1,0 +1,22 @@
+{
+    "name": "material-kevin",
+    "displayName": "material",
+    "description": "k",
+    "version": "0.0.1",
+    "publisher": "kevinramsunder",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "material kevin",
+                "uiTheme": "vs-dark",
+                "path": "./themes/material kevin-color-theme.json"
+            }
+        ]
+    }
+}

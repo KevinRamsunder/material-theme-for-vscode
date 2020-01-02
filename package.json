@@ -1,9 +1,10 @@
 {
-    "name": "material-kevin",
-    "displayName": "material",
-    "description": "k",
+    "name": "modified-darker-material-theme",
+    "repository": "https://github.com/KevinRamsunder/material-theme-for-vscode",
+    "displayName": "Modified Darker Material Theme",
+    "description": "Material theme with slightly different colors",
     "version": "0.0.1",
-    "publisher": "kevinramsunder",
+    "publisher": "k-r",
     "engines": {
         "vscode": "^1.38.0"
     },
@@ -13,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "material kevin",
+                "label": "modified-darker-material-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/material kevin-color-theme.json"
+                "path": "./themes/theme.json"
             }
         ]
     }
